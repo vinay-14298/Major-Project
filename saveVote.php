@@ -100,9 +100,9 @@
 					echo "<br>All Field Recquired";
 				}
 				
-       $DB_HOST= "localhost";
+       $DB_HOST= "testdb.ccknqz3pruo1.us-east-2.rds.amazonaws.com";
        $DB_USER="root";
-       $DB_PASSWORD="Vinay@11";
+       $DB_PASSWORD="VinayVel11";
        $DB_NAME="db_evoting";
 	
 
