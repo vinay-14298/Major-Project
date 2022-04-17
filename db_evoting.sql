@@ -5,7 +5,7 @@
 -- Host: 127.0.0.1
 -- Generation Time: May 20, 2015 at 11:05 AM
 -- Server version: 5.5.39
--- PHP Version: 5.4.31
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
