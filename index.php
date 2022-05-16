@@ -1,5 +1,5 @@
 <?php
-// Initialize the session
+// Initialize the s
 session_start();
  
 // Check if the user is already logged in, if yes then redirect him to welcome page
